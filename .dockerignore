@@ -1,0 +1,5 @@
+*.md
+LICENSE
+build.sh
+.gitignore
+scratch
